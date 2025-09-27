@@ -4,7 +4,7 @@
 
 Spoiler Alert helps you track what’s in your fridge, reduce food waste, and make meal planning effortless.
 
-## 🎥 Demo
+## 🎥 Watch Demo (Click Thumbnail)
 
 [![Watch the demo](https://i.imgur.com/9g1qgDX.png)](https://youtu.be/YOLyiLElo8w)
 
